@@ -1,0 +1,8 @@
+[submodule "asciidoctor-maven-plugin"]
+	path = asciidoctor-maven-plugin
+	url = git@github.com:Batmat/asciidoctor-maven-plugin.git
+	branch = using-asciidoctorj-1.5.0.preview1
+[submodule "asciidoctor-maven-site-demo"]
+	path = asciidoctor-maven-site-demo
+	url = git@github.com:Batmat/asciidoctor-maven-site-demo.git
+	branch = master
