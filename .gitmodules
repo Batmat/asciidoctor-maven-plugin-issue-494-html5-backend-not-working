@@ -6,3 +6,7 @@
 	path = asciidoctor-maven-site-demo
 	url = git@github.com:Batmat/asciidoctor-maven-site-demo.git
 	branch = master
+[submodule "asciidoctorj"]
+	path = asciidoctorj
+	url = git@github.com:asciidoctor/asciidoctorj.git
+	branch = master
